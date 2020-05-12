@@ -5,7 +5,7 @@
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-success" />
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-9cf" />
-    <a aria-label="João" href="www.instagram.com/joaopaulo.316">
+    <a aria-label="João" href="https://www.instagram.com/joaopaulo.316">
         <img src="https://img.shields.io/badge/João-Follow-green?logo=instagram&style=social"></img>
     </a>
 </p>
