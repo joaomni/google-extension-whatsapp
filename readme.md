@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="#-o-que-a-extensão-é-capaz-de-fazer">O que a extensão é capaz de fazer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-autor">Autor</a>
+  <a href="#o-que-a-extensão-é-capaz-de-fazer">O que a extensão é capaz de fazer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#autor">Autor</a>
 </p>
 
 ## O que a extensão é capaz de fazer
