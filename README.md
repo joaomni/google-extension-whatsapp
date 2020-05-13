@@ -42,5 +42,3 @@ https://github.com/joaoqsl/google-extension-whatsapp.git
 [<img src="https://avatars1.githubusercontent.com/u/44358797?s=460&u=92c21a0ebaaa422df3ca83ba2bab8ea838a7cf7e&v=4" width=115 > <br> <sub> João Paulo </sub>](https://github.com/joaoqsl) |
 | :---: | 
 
-
-Com 💜 João
