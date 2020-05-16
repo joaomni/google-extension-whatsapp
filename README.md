@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="#feature">Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#licença">Autor</a>
+  <a href="#rocket-feature">Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#joystick-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Autor</a>
 </p>
 
 ## :rocket: Feature
