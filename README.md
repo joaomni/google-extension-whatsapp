@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="#o-que-a-extensão-é-capaz-de-fazer">O que a extensão é capaz de fazer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#feature">O que a extensão é capaz de fazer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-usar">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#autor">Autor</a>
+  <a href="#Correction">Autor</a>
 </p>
 
 ## :rocket: Feature
@@ -37,7 +37,7 @@ https://github.com/joaoqsl/google-extension-whatsapp.git
 
 <img src="https://github.com/joaoqsl/google-extension-whatsapp/blob/master/images/folder.jpg" alt="Developer Mode"/>
 
-## :memo: License
+## :memo: Licença
 
 Released in 2020.
 This project is under the [MIT license](https://github.com/LauraBeatris/foodfy/master/LICENSE).
