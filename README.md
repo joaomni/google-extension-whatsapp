@@ -1,6 +1,6 @@
 <h1 align="center">Extenção para Whatssap</h1>
 
-<h4 align="center">O projeto é uma extensão do Google Chrome para acelarar áudios no Whatssap Web</h4>
+<h4 align="center">WhatsApp Web Extension</h4>
 
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-success" />
@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="#feature">O que a extensão é capaz de fazer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-usar">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Correction">Autor</a>
+  <a href="#feature">Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#licença">Autor</a>
 </p>
 
 ## :rocket: Feature
