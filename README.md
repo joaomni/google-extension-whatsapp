@@ -13,7 +13,7 @@
 <p align="center">
   <a href="#rocket-feature">Feature</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#joystick-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Autor</a>
+  <a href="#memo-licença">Lincença</a>
 </p>
 
 ## :rocket: Feature
