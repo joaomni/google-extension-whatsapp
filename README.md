@@ -1,6 +1,6 @@
 <h1 align="center">Extenção para Whatssap</h1>
 
-<p align="center">O projeto é uma extensão do Google Chrome para acelarar áudios do Whatssap</p>
+<h4 align="center">O projeto é uma extensão do Google Chrome para acelarar áudios no Whatssap Web</h4>
 
 <p align="center">
     <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-success" />
@@ -12,15 +12,15 @@
 
 <p align="center">
   <a href="#o-que-a-extensão-é-capaz-de-fazer">O que a extensão é capaz de fazer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-usar">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#autor">Autor</a>
 </p>
 
-## O que a extensão é capaz de fazer
+## :rocket: Feature
 
-:pencil2: Permite aumentar a velocidade de produção dos audios em 2x
+* :runner: Acelere a produção de áudios.
 
-## Instalação e execução
+## :joystick: Como usar
 
 1. Clone o projeto
 
@@ -37,8 +37,11 @@ https://github.com/joaoqsl/google-extension-whatsapp.git
 
 <img src="https://github.com/joaoqsl/google-extension-whatsapp/blob/master/images/folder.jpg" alt="Developer Mode"/>
 
-## Autor
+## :memo: License
 
-[<img src="https://avatars1.githubusercontent.com/u/44358797?s=460&u=92c21a0ebaaa422df3ca83ba2bab8ea838a7cf7e&v=4" width=115 > <br> <sub> João Paulo </sub>](https://github.com/joaoqsl) |
-| :---: | 
+Released in 2020.
+This project is under the [MIT license](https://github.com/LauraBeatris/foodfy/master/LICENSE).
+
+Made with love by [João Paulo](https://github.com/joaoqsl) 💜🚀
+
 
